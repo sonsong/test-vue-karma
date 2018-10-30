@@ -20,6 +20,7 @@ npm run build --report
 npm test
 
 #具体步骤参考下面的链接：
+[guide](http://vuejs-templates.github.io/webpack/)
 [guide](http://note.youdao.com/noteshare?id=b22ed89d1b6f8d44fc39606bce7e812f)
 ```
 
