@@ -18,6 +18,9 @@ npm run build
 npm run build --report
 # 启动karma
 npm test
+
+#具体步骤参考下面的链接：
+http://note.youdao.com/noteshare?id=b22ed89d1b6f8d44fc39606bce7e812f
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
